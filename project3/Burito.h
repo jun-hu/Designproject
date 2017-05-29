@@ -4,8 +4,8 @@ using namespace std;
 class Burito
 {
 public:
-	Burito();
-	~Burito();
+	Burito() {}
+	~Burito() {}
 
 public:
 	virtual int getCost() = 0;

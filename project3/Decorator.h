@@ -4,7 +4,7 @@ class Decorator :
 	public Burito
 {
 public:
-	Decorator();
-	~Decorator();
+	Decorator() {}
+	~Decorator() {}
 };
 
